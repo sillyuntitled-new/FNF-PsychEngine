@@ -1,0 +1,9 @@
+{
+	"name": "FNF: (uhh i dont have a name yet stick with me)",
+	"description": "my second fnf mod",
+	"restart":false,
+	"runsGlobally": false,
+	"color": [170, 0, 255],
+	"discordRPC": "863222024192262205",
+	"iconFramerate": 10
+}

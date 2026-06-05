@@ -1,0 +1,31 @@
+
+
+once again, please credit <3
+yt: @kommitisstupid
+gbanana: iwanttokommitdead
+
+if something goes wrong msg me on discord as i barely check on gb/yt
+discord: @kommit. or kommit#2406
+
+my credit icon is in the credits folder
+
+
+
+
+
+1. put the "pause menu woag.lua" file in the data folder of your song (mods/data/your-song)
+   if you want to use just one pause script for all songs, put it in mods/scripts/
+
+2. put the "pause" folder in /mods/images/
+   (you can rename or use another folder if you want, as long as you change it in the script)
+
+3. for a custom image, use the blanktemplate.png in pause as a template
+   while you can use a different size, the offset will end up looking very weird so
+   its recommended to either draw in this canvas or resize your art to fit in that
+
+4. if you want custom music, make sure it is in .OGG format and is /mods/sounds/
+   breakfast.ogg is in there as a placeholder
+
+5. thats about it (in terms of file stuff)
+   make sure to read the first 30 lines of the script as those are the options
+   i hope you find this useful :D

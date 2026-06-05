@@ -1,0 +1,61 @@
+{
+	"animations": [
+		{
+			"offsets": [493, 441],
+			"flipY": false,
+			"loop": true,
+			"fps": 12,
+			"anim": "idle",
+			"flipX": false,
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [322, 218],
+			"anim": "singDOWN",
+			"fps": 72,
+			"name": "Down",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [494, 516],
+			"anim": "singUP",
+			"fps": 72,
+			"name": "Up",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"offsets": [599, 419],
+			"anim": "singLEFT",
+			"fps": 72,
+			"name": "Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [428, 439],
+			"anim": "singRIGHT",
+			"fps": 72,
+			"name": "Left",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/amazon/vivid saph hd",
+	"position": [200, 190],
+	"healthicon": "stasisSaph",
+	"flip_x": true,
+	"healthbar_colors": [175, 215, 255],
+	"camera_position": [-330, -300],
+	"sing_duration": 6.1,
+	"scale": 0.65,
+	"_editor_isPlayer": false
+}
